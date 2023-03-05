@@ -1,16 +1,8 @@
-# dicee_app
+# Dice App with Flutter
 
-A new Flutter project.
+The Dice App with Flutter is a mobile application that simulates rolling dice. The app is built using the Flutter framework, which is a popular cross-platform development framework for mobile, web, and desktop applications.
 
-## Getting Started
+## Description
+The app features a simple and user-friendly interface that displays two dice and a button to roll the dice. When the user clicks the button, the dice are rolled and a random number is displayed on each die.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The app is designed to be a fun and entertaining way to play games that require dice. It can be enjoyed by people of all ages and is perfect for parties, gatherings, or just for fun.
